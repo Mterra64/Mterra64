@@ -1,11 +1,24 @@
-# Mario Terra
+I build software that solves real-world problems by combining engineering, product thinking and modern technology.
 
-### Software Engineer | Backend Engineering | AI Automation | Software Developer
+I’m currently contributing to the development and backend evolution of a cross-platform school safety platform at LGS Tech, working with Node.js, Express, MongoDB, React Native, Expo and TypeScript in a collaborative engineering environment.
 
-I build software that connects technology, business and user experience.
+My background spans software engineering, product management and technology leadership, allowing me to understand both the technical and business sides of product development. I enjoy collaborating across teams, designing scalable solutions and turning ideas into reliable software.
 
-Currently contributing to the backend evolution of a cross-platform school safety platform at LGS Tech while building modern backend systems and AI-powered automation projects.
+Alongside my professional work, I’m building an independent backend platform focused on Python, FastAPI, PostgreSQL, Docker and AI Automation to deepen my expertise in modern backend architecture, intelligent systems and production-ready software engineering.
 
+
+
+I’m particularly interested in:
+
+• Backend Engineering
+
+• AI Automation & Intelligent Agents
+
+• Software Developer 
+
+• Product Engineering
+
+• API Design & Distributed Systems
 ---
 
 ## Current Work
@@ -146,7 +159,7 @@ A production-oriented backend platform designed to automate business workflows u
 
 ### Completed
 
-- Digital Product Leadership
+- TERA Digital Product Leadership
 - SENAI Software Engineering Program
 
 ### In Progress
