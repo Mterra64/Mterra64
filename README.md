@@ -1,44 +1,27 @@
-I build software that solves real-world problems by combining engineering, product thinking and modern technology.
+# Mario Terra
 
-I’m currently contributing to the development and backend evolution of a cross-platform school safety platform at LGS Tech, working with Node.js, Express, MongoDB, React Native, Expo and TypeScript in a collaborative engineering environment.
+### Backend Operations | Software Development | AI Automation
 
-My background spans software engineering, product management and technology leadership, allowing me to understand both the technical and business sides of product development. I enjoy collaborating across teams, designing scalable solutions and turning ideas into reliable software.
+I build software that connects technology, business, operations and user experience.
 
-Alongside my professional work, I’m building an independent backend platform focused on Python, FastAPI, PostgreSQL, Docker and AI Automation to deepen my expertise in modern backend architecture, intelligent systems and production-ready software engineering.
+At LGS Tech, I coordinate backend planning and operations while contributing hands-on to the development of a cross-platform school safety platform. Alongside this work, I am building an independent backend project focused on Python, FastAPI and AI automation.
 
-
-
-I’m particularly interested in:
-
-• Backend Engineering
-
-• AI Automation & Intelligent Agents
-
-• Software Developer 
-
-• Product Engineering
-
-• API Design & Distributed Systems
 ---
 
 ## Current Work
 
-### Software Engineer | LGS Tech
+### Backend Operations Manager | LGS Tech
 
-Contributing to the development and backend evolution of a cross-platform school safety platform.
+I coordinate backend planning, priorities and operational continuity while contributing directly to product development.
 
-### Responsibilities
+- Contributing to backend services using Node.js and Express
+- Supporting REST API and data-model decisions
+- Working with MongoDB and Mongoose
+- Collaborating with the React Native, Expo and TypeScript team
+- Supporting architecture discussions, issue tracking and environment configuration
+- Translating product and safety requirements into technical decisions
 
-- Developing backend services with Node.js and Express
-- Designing and maintaining REST APIs
-- Working with MongoDB and backend architecture
-- Supporting React Native and Expo mobile applications
-- Collaborating with Product, Engineering and QA teams
-- Participating in architecture discussions, debugging and feature delivery
-
-### Stack
-
-Node.js • Express • MongoDB • React Native • Expo • TypeScript • Git
+**Stack:** Node.js, Express, MongoDB, Mongoose, React Native, Expo, TypeScript, Git
 
 ---
 
@@ -46,34 +29,29 @@ Node.js • Express • MongoDB • React Native • Expo • TypeScript • Git
 
 ### Sentinel Beacon
 
-Cross-platform school safety platform.
+A cross-platform school safety platform for iOS, Android and Web.
 
-Building backend services and contributing to the evolution of a production application.
+My work includes backend operations, planning and hands-on contributions to backend development and integration with the mobile application.
 
-**Stack**
+**Stack:** Node.js, Express, MongoDB, Mongoose, React Native, Expo, TypeScript
 
-Node.js • Express • MongoDB • React Native • Expo • TypeScript
+### AI Automation Backend Platform - In Progress
 
----
+An independent, production-oriented backend project focused on intelligent automation and modern software engineering practices.
 
-### AI Automation Platform *(In Progress)*
-
-Designing a production-ready backend platform focused on intelligent automation and modern software engineering.
-
-**Planned Stack**
-
-Python • FastAPI • PostgreSQL • Docker • GitHub Actions • AI Agents • RAG • Tool Calling
+**Planned stack:** Python, FastAPI, PostgreSQL, Docker, GitHub Actions, automated testing, AI agents, tool calling, RAG and observability
 
 ---
 
 ## Current Focus
 
-- Backend Engineering
+- Backend Development
+- Backend Operations
+- REST API Design
 - AI Automation
 - Software Architecture
 - Product Engineering
-- REST APIs
-- Developer Experience
+- Testing and CI/CD
 
 ---
 
@@ -81,97 +59,76 @@ Python • FastAPI • PostgreSQL • Docker • GitHub Actions • AI Agents �
 
 ### Backend
 
-- Node.js
-- Express
-- Python
-- FastAPI
+Node.js, Express, Python, FastAPI, REST APIs
 
-### Databases
+### Data
 
-- MongoDB
-- PostgreSQL
+MongoDB, Mongoose, PostgreSQL, SQL, SQLite
 
-### Frontend & Mobile
+### Mobile and Web
 
-- React Native
-- Expo
-- TypeScript
+React Native, Expo, React, TypeScript, JavaScript
 
-### DevOps
+### Engineering
 
-- Docker
-- GitHub Actions
-- Git
+Git, GitHub, Docker, testing, CI/CD, code review and technical documentation
 
 ---
 
 ## Currently Building
 
-### AI Automation Platform
+### AI Automation Backend Platform
 
 A production-oriented backend platform designed to automate business workflows using modern AI technologies.
 
-### Current Goals
+Current goals:
 
 - Build scalable REST APIs with FastAPI
 - Design a modular backend architecture
-- Implement PostgreSQL
+- Implement PostgreSQL and database migrations
 - Containerize services with Docker
-- Add automated testing
+- Add automated unit and integration tests
 - Configure CI/CD pipelines
-- Integrate AI Agents
-- Implement Tool Calling
-- Implement Retrieval-Augmented Generation (RAG)
-- Add logging, monitoring and observability
+- Integrate AI agents and tool calling
+- Implement Retrieval-Augmented Generation
+- Add logging, monitoring, guardrails and evaluation workflows
 
 ---
 
-## 2026 Engineering Roadmap
+## Engineering Roadmap
 
-### Current Skills
+### Current Experience
 
 - Node.js
 - Express
+- MongoDB and Mongoose
+- React Native and Expo
 - TypeScript
 - REST APIs
-- MongoDB
+- Product and backend operations
 
-### Currently Learning
+### Expanding
 
 - Python
 - FastAPI
 - PostgreSQL
 - Docker
-- Automated Testing
+- Automated testing
 - CI/CD
+- Observability
+- Applied AI
 
 ### Next
 
 - Redis
-- Kubernetes
-- Kafka
+- Background jobs
 - LangGraph
-- Azure AI Services
-
----
-
-## Certifications
-
-### Completed
-
-- TERA Digital Product Leadership
-- SENAI Software Engineering Program
-
-### In Progress
-
-- GitHub Foundations
-- Microsoft AI-900
-- Microsoft AZ-900
+- Cloud deployment
+- Event-driven architecture
 
 ---
 
 ## Connect
 
-LinkedIn
-
-www.linkedin.com/in/mario-terra-09897346
+- LinkedIn: https://www.linkedin.com/in/mario-terra-09897346/
+- Email: mario.h.terra@gmail.com
