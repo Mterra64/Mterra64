@@ -1,10 +1,22 @@
 # Mario Terra
 
-### Backend Operations | Software Development | AI Automation
+### Backend Developer | Software Developer | AI Automation
 
-I build software that connects technology, business, operations and user experience.
+Backend-focused Software Developer working with **Node.js, Express.js, MongoDB, REST APIs and TypeScript**, with hands-on experience contributing to a production application and coordinating backend operations.
 
-At LGS Tech, I coordinate backend planning and operations while contributing hands-on to the development of a cross-platform school safety platform. Alongside this work, I am building an independent backend project focused on Python, FastAPI and AI automation.
+Currently expanding my backend engineering expertise through **Python, FastAPI, PostgreSQL, Docker, automated testing, CI/CD and AI automation**.
+
+---
+
+## Backend Engineering
+
+My current work focuses on building and supporting backend systems, API development, data modeling, system integration and technical collaboration.
+
+**Core stack:**
+
+`Node.js` `Express.js` `TypeScript` `JavaScript` `REST APIs`  
+`MongoDB` `Mongoose` `PostgreSQL` `SQL`  
+`Git` `GitHub` `Docker` `CI/CD`
 
 ---
 
@@ -12,46 +24,55 @@ At LGS Tech, I coordinate backend planning and operations while contributing han
 
 ### Backend Operations Manager | LGS Tech
 
-I coordinate backend planning, priorities and operational continuity while contributing directly to product development.
+I coordinate backend planning and operational priorities while contributing directly to backend development for a cross-platform school safety application.
 
-- Contributing to backend services using Node.js and Express
-- Supporting REST API and data-model decisions
-- Working with MongoDB and Mongoose
-- Collaborating with the React Native, Expo and TypeScript team
-- Supporting architecture discussions, issue tracking and environment configuration
-- Translating product and safety requirements into technical decisions
+My work includes:
 
-**Stack:** Node.js, Express, MongoDB, Mongoose, React Native, Expo, TypeScript, Git
+- Developing and maintaining backend functionality using **Node.js, Express.js, MongoDB and Mongoose**
+- Contributing to **REST API development, data modeling and debugging**
+- Supporting frontend/backend integration with **React Native, Expo and TypeScript**
+- Using **Git and GitHub** with feature branches and collaborative development workflows
+- Collaborating on requirements, issue tracking and architecture decisions
+- Supporting continuous improvement of system reliability and technical operations
 
 ---
 
-## Current Projects
+## Featured Projects
 
 ### Sentinel Beacon
 
-A cross-platform school safety platform for iOS, Android and Web.
+Cross-platform school safety platform for **iOS, Android and Web**.
 
-My work includes backend operations, planning and hands-on contributions to backend development and integration with the mobile application.
+I contribute to backend development, REST APIs, data modeling, debugging and integration with the React Native/Expo application while coordinating backend planning and priorities.
 
-**Stack:** Node.js, Express, MongoDB, Mongoose, React Native, Expo, TypeScript
+**Stack**
 
-### AI Automation Backend Platform - In Progress
-
-An independent, production-oriented backend project focused on intelligent automation and modern software engineering practices.
-
-**Planned stack:** Python, FastAPI, PostgreSQL, Docker, GitHub Actions, automated testing, AI agents, tool calling, RAG and observability
+`Node.js` `Express.js` `MongoDB` `Mongoose` `React Native` `Expo` `TypeScript` `Git`
 
 ---
 
-## Current Focus
+### AI Automation Backend Platform
 
-- Backend Development
-- Backend Operations
-- REST API Design
-- AI Automation
-- Software Architecture
-- Product Engineering
-- Testing and CI/CD
+**Independent Engineering Project | In Progress**
+
+A production-oriented backend project focused on modern backend engineering and intelligent workflow automation.
+
+The project is being developed to deepen practical experience with:
+
+- **Python and FastAPI** backend development
+- REST API design
+- PostgreSQL and relational data modeling
+- Docker containerization
+- Automated unit and integration testing
+- CI/CD pipelines with GitHub Actions
+- Logging and observability
+- AI agents and tool calling
+- Retrieval-Augmented Generation (RAG)
+- Guardrails and evaluation workflows
+
+**Current / planned stack**
+
+`Python` `FastAPI` `PostgreSQL` `Docker` `GitHub Actions` `Automated Testing` `AI Automation`
 
 ---
 
@@ -59,76 +80,42 @@ An independent, production-oriented backend project focused on intelligent autom
 
 ### Backend
 
-Node.js, Express, Python, FastAPI, REST APIs
+`Node.js` `Express.js` `TypeScript` `JavaScript` `REST APIs`
 
-### Data
+### Databases
 
-MongoDB, Mongoose, PostgreSQL, SQL, SQLite
+`MongoDB` `Mongoose` `PostgreSQL` `SQL` `SQLite`
 
-### Mobile and Web
+### Python & AI
 
-React Native, Expo, React, TypeScript, JavaScript
+`Python` `FastAPI` `AI Automation`
 
 ### Engineering
 
-Git, GitHub, Docker, testing, CI/CD, code review and technical documentation
+`Git` `GitHub` `Docker` `Testing` `CI/CD` `Code Review` `Technical Documentation`
+
+### Frontend & Mobile
+
+`React Native` `Expo` `React`
 
 ---
 
-## Currently Building
+## Current Engineering Focus
 
-### AI Automation Backend Platform
+`Backend Development` `REST APIs` `Data Modeling` `Software Architecture` `Testing` `CI/CD` `AI Automation`
 
-A production-oriented backend platform designed to automate business workflows using modern AI technologies.
+I am currently expanding my practical experience with:
 
-Current goals:
+**Python • FastAPI • PostgreSQL • Docker • Automated Testing • CI/CD • Observability**
 
-- Build scalable REST APIs with FastAPI
-- Design a modular backend architecture
-- Implement PostgreSQL and database migrations
-- Containerize services with Docker
-- Add automated unit and integration tests
-- Configure CI/CD pipelines
-- Integrate AI agents and tool calling
-- Implement Retrieval-Augmented Generation
-- Add logging, monitoring, guardrails and evaluation workflows
+Next areas of development:
 
----
-
-## Engineering Roadmap
-
-### Current Experience
-
-- Node.js
-- Express
-- MongoDB and Mongoose
-- React Native and Expo
-- TypeScript
-- REST APIs
-- Product and backend operations
-
-### Expanding
-
-- Python
-- FastAPI
-- PostgreSQL
-- Docker
-- Automated testing
-- CI/CD
-- Observability
-- Applied AI
-
-### Next
-
-- Redis
-- Background jobs
-- LangGraph
-- Cloud deployment
-- Event-driven architecture
+**Redis • AWS • Event-Driven Architecture**
 
 ---
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/mario-terra-09897346/
-- Email: mario.h.terra@gmail.com
+**LinkedIn:** [linkedin.com/in/mario-terra-09897346](https://www.linkedin.com/in/mario-terra-09897346/)
+
+**Email:** mario.h.terra@gmail.com
